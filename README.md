@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sirius1002
 - 👀 I’m interested in data research and development.
-- 🌱 I’m currently a student at Thapar Institute if Engineering and Technology.
+- 🌱 I’m currently a student at Thapar Institute of Engineering and Technology.
 - 💞️ I’m looking to collaborate on any project on Data science and machine learning.
 - 📫 Reach me at @igupta.1023@gmail.com
 
