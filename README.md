@@ -8,7 +8,8 @@
 - 📫 Reach me at @igupta.1023@gmail.com
 
 
-<img align="right" width ="400" src="![image](https://github.com/Sirius1002/Sirius1002/assets/135801764/df5640ac-9528-4714-a030-2d7ae1907a18)">
+<img align="right" width ="400" src="![image](https://github.com/Sirius1002/Sirius1002/assets/135801764/be7dee42-0599-4655-a7e5-ae24efc82bd1)
+">
 
 
 
