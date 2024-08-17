@@ -1,7 +1,9 @@
-<h2>hi my name is Ira </h2>
-<h3>
-I am a computer science student at  Thapar Institute of Engineering and Technology.
-</h3>
-<h5>
-  I read sometimes :-)
-</h5>
+<h1 align="center">Hi 👋, I'm Ira Gupta/h1>
+<h3 align="center">A passionate Computer Science Engineer from Thapar Institute of Engineering and Technology </h3>
+
+- 🔭 I’m currently working on **Building a Valuable Skill-Set**
+
+- 📫 How to reach me **igupta_be21@thapar.edu**
+
+- ⚡ Fun fact about me **I love dogs more than humans **
+
