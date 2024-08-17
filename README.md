@@ -5,5 +5,5 @@
 
 - 📫 How to reach me **igupta_be21@thapar.edu**
 
-- ⚡ Fun fact about me **I love dogs more than humans**
+- ⚡ Fun fact about me : **I love dogs more than humans**
 
